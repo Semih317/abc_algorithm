@@ -1,0 +1,11 @@
+C:\Users\Semih\source\repos\ABC_Algorithm\ABC_Algorithm\bin\Debug\ABC_Algorithm.exe.config
+C:\Users\Semih\source\repos\ABC_Algorithm\ABC_Algorithm\bin\Debug\ABC_Algorithm.exe
+C:\Users\Semih\source\repos\ABC_Algorithm\ABC_Algorithm\bin\Debug\ABC_Algorithm.pdb
+C:\Users\Semih\source\repos\ABC_Algorithm\ABC_Algorithm\obj\Debug\ABC_Algorithm.csproj.AssemblyReference.cache
+C:\Users\Semih\source\repos\ABC_Algorithm\ABC_Algorithm\obj\Debug\ABC_Algorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Semih\source\repos\ABC_Algorithm\ABC_Algorithm\obj\Debug\ABC_Algorithm.Form1.resources
+C:\Users\Semih\source\repos\ABC_Algorithm\ABC_Algorithm\obj\Debug\ABC_Algorithm.Properties.Resources.resources
+C:\Users\Semih\source\repos\ABC_Algorithm\ABC_Algorithm\obj\Debug\ABC_Algorithm.csproj.GenerateResource.cache
+C:\Users\Semih\source\repos\ABC_Algorithm\ABC_Algorithm\obj\Debug\ABC_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Semih\source\repos\ABC_Algorithm\ABC_Algorithm\obj\Debug\ABC_Algorithm.exe
+C:\Users\Semih\source\repos\ABC_Algorithm\ABC_Algorithm\obj\Debug\ABC_Algorithm.pdb
