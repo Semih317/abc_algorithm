@@ -1,5 +1,5 @@
-#"# abc_algorithm" 
+# "# abc_algorithm" 
 
-#Minimization and graphing of a given function.
+# Minimization and graphing of a given function.
 
-#Selcuk University
+# Selcuk University
